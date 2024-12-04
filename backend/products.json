@@ -1,0 +1,202 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Trad-Gnome",
+      "category": "Outdoor Decor",
+      "price": 19.99,
+      "image": "https://iili.io/21guyeS.webp",
+      "description": "A traditional gnome who believes in red hats, long beards, and good old-fashioned garden guarding.",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Fishy Gnome",
+      "category": "Outdoor Decor",
+      "price": 25.99,
+      "image": "https://iili.io/21gup72.webp",
+      "description": "A fearless fishing gnome who claims to have wrestled a koi fish bare-handed. A must-have for ponds!",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Chef Gnome",
+      "category": "Indoor Decor",
+      "price": 22.49,
+      "image": "https://iili.io/21guLss.webp",
+      "description": "Known for their gourmet mushroom stew, Chef Gnome always keeps your kitchen flavorful and fun.",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Zen Gnome",
+      "category": "Indoor Decor",
+      "price": 18.75,
+      "image": "https://iili.io/21gusXn.webp",
+      "description": "This yoga-loving gnome will help you find your inner peace while striking a perfect lotus pose.",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "name": "Captain Gnome",
+      "category": "Outdoor Decor",
+      "price": 27.99,
+      "image": "https://iili.io/21guizX.webp",
+      "description": "With their eyepatch and a map to the best garden treasures, Captain Gnome keeps your yard an adventure.",
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "name": "Leather Gnome",
+      "category": "Outdoor Decor",
+      "price": 18.99,
+      "image": "https://iili.io/21PF2Ag.webp",
+      "description": "Leather Gnome loves a good techno party in an abandoned warehouse and brings a cool vibe to your yard.",
+      "stock": 55
+    },
+    {
+      "id": 7,
+      "name": "Gnome-Man",
+      "category": "Outdoor Decor",
+      "price": 29.99,
+      "image": "https://iili.io/21guvqJ.webp",
+      "description": "The superhero gnome who fights off weeds and protects gardens with their trusty cape and shovel.",
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "name": "Jingle Gnome",
+      "category": "Indoor Decor",
+      "price": 15.99,
+      "image": "https://iili.io/21guSgR.webp",
+      "description": "This festive gnome spreads Christmas cheer with their tiny bell and evergreen scent.",
+      "stock": 60
+    },
+    {
+      "id": 9,
+      "name": "Meditative Gnome",
+      "category": "Indoor Decor",
+      "price": 20.99,
+      "image": "https://iili.io/21guesa.webp",
+      "description": "Meditative Gnome sits calmly in your garden, ensuring tranquility flows through your plants and your soul.",
+      "stock": 35
+    },
+    {
+      "id": 10,
+      "name": "Gnofarmer Gnome",
+      "category": "Outdoor Decor",
+      "price": 21.99,
+      "image": "https://iili.io/21gu80v.webp",
+      "description": "With a green thumb and a tiny rake, Gnofarmer Gnome keeps your garden thriving and your veggies happy.",
+      "stock": 45
+    },
+    {
+      "id": 11,
+      "name": "Gnomini Gnome",
+      "category": "Outdoor Decor",
+      "price": 24.99,
+      "image": "https://iili.io/21PFolI.webp",
+      "description": "A magician gnome who claims to make weeds disappear with the wave of their wand. Is it magic or mulch?",
+      "stock": 22
+    },
+    {
+      "id": 12,
+      "name": "Pride Gnome",
+      "category": "Outdoor Decor",
+      "price": 59.99,
+      "image": "https://iili.io/21P3mPV.webp",
+      "description": "This drag superstar gnome will bring the fun to your dull garden!",
+      "stock": 15
+    },
+    {
+      "id": 13,
+      "name": "Rockin Gnome",
+      "category": "Indoor Decor",
+      "price": 28.99,
+      "image": "https://iili.io/21PFBPp.webp",
+      "description": "Rockin Gnome keeps the beat alive with their gnome-sized drum set and wild garden rock concerts.",
+      "stock": 10
+    },
+    {
+      "id": 14,
+      "name": "Wizard Gnome",
+      "category": "Outdoor Decor",
+      "price": 30.99,
+      "image": "https://iili.io/21PFnKN.webp",
+      "description": "Conjuring good vibes and better soil, Wizard Gnome is the mystical gnome your garden deserves.",
+      "stock": 12
+    },
+    {
+      "id": 15,
+      "name": "Astro-Gnome",
+      "category": "Outdoor Decor",
+      "price": 32.99,
+      "image": "https://iili.io/21PFFDJ.webp",
+      "description": "With a helmet and a dream, Astro-Gnome ready to take your garden to infinity and beyond!",
+      "stock": 9
+    },
+    {
+      "id": 16,
+      "name": "Strummy Gnome",
+      "category": "Indoor Decor",
+      "price": 23.49,
+      "image": "https://iili.io/21gu4eI.webp",
+      "description": "Strumming their tiny guitar, Strummy Gnome turns every evening into a concert of gnomish ballads.",
+      "stock": 40
+    },
+    {
+      "id": 17,
+      "name": "Nap-Time Gnome",
+      "category": "Indoor Decor",
+      "price": 17.99,
+      "image": "https://iili.io/21PF3Na.webp",
+      "description": "Known for their hammock naps, Nap-time Gnome reminds everyone to slow down and enjoy the garden view.",
+      "stock": 25
+    },
+    {
+      "id": 18,
+      "name": "Booky Gnome",
+      "category": "Indoor Decor",
+      "price": 19.49,
+      "image": "https://iili.io/21PFdHF.webp",
+      "description": "A bookish gnome who ensures your plants grow smarter and your garden stays well-read.",
+      "stock": 40
+    },
+    {
+      "id": 19,
+      "name": "Campfire Gnome",
+      "category": "Outdoor Decor",
+      "price": 27.49,
+      "image": "https://iili.io/21P3bMQ.webp",
+      "description": "Campfire Gnome marshmallow roasting skills are legendary, bringing warmth and joy to your evenings.",
+      "stock": 18
+    },
+    {
+      "id": 20,
+      "name": "Surfin Gnome",
+      "category": "Outdoor Decor",
+      "price": 29.99,
+      "image": "https://iili.io/21P3Ztj.webp",
+      "description": "With their surfboard and sunny vibes, Surfin Gnome makes your garden feel like a beach party every day.",
+      "stock": 20
+    },
+    {
+      "id": 21,
+      "name": "Goalkeeper Gnome",
+      "category": "Outdoor Decor",
+      "price": 26.49,
+      "image": "https://iili.io/21PFxSt.webp",
+      "description": "A soccer-loving gnome who’ll kick garden pests right out of your yard with their magic cleats.",
+      "stock": 18
+    },
+    {
+      "id": 22,
+      "name": "Scary Gnome",
+      "category": "Outdoor Decor",
+      "price": 59.99,
+      "image": "https://iili.io/21P3Dox.webp",
+      "description": "If you want to scare away your neighbours, Scary Gnome is the perfect gnome for you. They'll even scare away the ghosts!",
+      "stock": 24
+    }
+  ]
+}
