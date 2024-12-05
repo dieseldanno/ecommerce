@@ -101,12 +101,12 @@
     },
     {
       "id": 12,
-      "name": "Pride Gnome",
+      "name": "Scary Gnome",
       "category": "Outdoor Decor",
       "price": 59.99,
-      "image": "https://iili.io/21P3mPV.webp",
-      "description": "This drag superstar gnome will bring the fun to your dull garden!",
-      "stock": 15
+      "image": "https://iili.io/21P3Dox.webp",
+      "description": "With a sinister grin and glowing eyes, this gnome guards your yard with frightful delight. Trick or treat?",
+      "stock": 24
     },
     {
       "id": 13,
@@ -188,15 +188,6 @@
       "image": "https://iili.io/21PFxSt.webp",
       "description": "A soccer-loving gnome who’ll kick garden pests right out of your yard with their magic cleats.",
       "stock": 18
-    },
-    {
-      "id": 22,
-      "name": "Scary Gnome",
-      "category": "Outdoor Decor",
-      "price": 59.99,
-      "image": "https://iili.io/21P3Dox.webp",
-      "description": "If you want to scare away your neighbours, Scary Gnome is the perfect gnome for you. They'll even scare away the ghosts!",
-      "stock": 24
     }
   ]
 }

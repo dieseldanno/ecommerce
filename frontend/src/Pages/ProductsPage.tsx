@@ -1,6 +1,12 @@
 import ProductList from "../Components/ProductList";
+import Header from "../Components/UI/Header";
 
 const ProductsPage = () => {
-  return <ProductList />;
+  return (
+    <>
+      <Header />
+      <ProductList />
+    </>
+  );
 };
 export default ProductsPage;

@@ -2,7 +2,6 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-// import productRoutes from "./routes/products-routes.mjs";
 
 // step 2. start the access to .env files configuration
 dotenv.config();
@@ -17,8 +16,6 @@ const app = express();
 // step 4. activate middleware
 app.use(cors());
 app.use(express.json());
-
-// app.use("/products", productRoutes);
 
 app.get("/products", async (req, res) => {
   try {
@@ -51,4 +48,3 @@ app.get("/products/:id", async (req, res) => {
 
 // step 5. start the server and listen to calls
 app.listen(PORT, () => console.log(`Server is running on port: ${PORT}`));
-console.log(`Fetching data from ${baseUrl}/products`);
