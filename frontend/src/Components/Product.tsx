@@ -8,7 +8,7 @@ type ProductProps = {
 const Product = ({ product }: ProductProps) => {
   return (
     <>
-      <div className="border p-4 rounded shadow hover:shadow-md">
+      <div className="border p-4 rounded shadow hover:shadow-lg hover:scale-105">
         <Link to={`/products/${product.id}`}>
           <img
             src={product.image}
